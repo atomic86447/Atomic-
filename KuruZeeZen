@@ -793,7 +793,7 @@ Textbtn2.MouseButton1Click:Connect(function()
       TextSize = 12
     }
   ):Play()
-  setclipboard("https://discord.gg/7xc8z6H9MR")
+  setclipboard("https://discord.gg/vam5FyqV")
   end)
 
 local Butn3 = Instance.new("Frame")
